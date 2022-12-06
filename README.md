@@ -1,4 +1,4 @@
-# IRESS SRE challange
+# Iress SRE challange
 ## Deploy an internet facing serverless application on AWS. The Lambda should be written in Python. The application needs to expose an endpoint which takes the city name as an input and returns the current weather
 
 To deploy an internet facing serverless application on AWS, you would first need to create an AWS account if you don't already have one.
