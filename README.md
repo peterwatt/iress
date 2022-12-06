@@ -56,7 +56,9 @@ Here is an example of how you might use the Chaos Toolkit to perform chaos testi
 
 ## Acknowledgement
 This document and the Python Lambda code were generated using ChatGTP at https://chat.openai.com/chat.
+
 Peter Watt
+
 5 December 2022
 
 
