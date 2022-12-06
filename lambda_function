@@ -9,7 +9,7 @@ def lambda_handler(event, context):
     print('City is ' + city)
     
     # Call OpenWeatherMap API
-    api_key = 'ed8cb4e398e4bbc4d766f4d10d3d823a'
+    api_key = 'key-deleted'
     api_url = 'http://api.openweathermap.org/data/2.5/weather'
     params = {'q': city, 'appid': api_key}
     response = requests.get(api_url, params=params)
